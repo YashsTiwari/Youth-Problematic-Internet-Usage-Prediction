@@ -1,4 +1,4 @@
-# Problematic Internet Usage Prediction
+# Youth Problematic Internet Usage Prediction
 
 ### Overview
 This project focuses on predicting the level of problematic internet usage exhibited by children and adolescents based on their physical activity and fitness data. Given the increasing prevalence of internet usage among youth, understanding and predicting problematic patterns is crucial for intervention and support strategies.
