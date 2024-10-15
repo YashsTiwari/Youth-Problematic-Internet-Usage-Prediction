@@ -134,10 +134,7 @@ Stacked ensemble techniques involve:
 This project successfully developed a machine learning model to predict problematic internet usage levels based on physical activity and fitness data. The results demonstrate the effectiveness of the selected algorithms. Random forest after hyperparameter tuning performed the best and is selected for the final prediction.
 
 ### Contributing
-If you’d like to contribute to this project, please fork the repository and submit a pull request with your changes. Contributions are welcome :) 
+If you’d like to contribute to this project, please fork the repository and submit a pull request with your changes. ***Contributions are welcome :)*** 
 
 ### License
 This project is licensed under the Apache-2.0 license. See the [LICENSE](LICENSE) file for more details.
-
-
-***Feel free to modify any sections or add additional details as needed to ensure it accurately reflects your project!***
