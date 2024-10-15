@@ -43,7 +43,7 @@ This project is developed using the following technologies:
 - **tqdm**: Library for displaying progress bars.
 
 ### Data Sources
-The dataset is sourced from the Child Mind Institute Problematic Internet Use Dataset. The following files are utilized:
+The dataset is sourced from the **Child Mind Institute** Problematic Internet Use Dataset. The following files are utilized:
 - `train.csv`: Contains training data for model building.
 - `test.csv`: Contains test data for model evaluation.
 - `sample_submission.csv`: Format for submitting predictions.
